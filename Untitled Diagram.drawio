@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T05:48:22.986Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GJyQSZmFPV7UEfSwmLxF" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T05:49:06.095Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2bc9iGkY0q7FB0dqsEaw" version="20.8.16" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="3136" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="110" y="70" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IGgQg_8KnwVarghvvdzZ-89" value="Django" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="IGgQg_8KnwVarghvvdzZ-85" vertex="1">
-          <mxGeometry x="84" y="320" width="132" height="130" as="geometry" />
+          <mxGeometry x="90" y="270" width="132" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BYjW-Z8Fg1tWiA0JsFKe-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;React&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="IGgQg_8KnwVarghvvdzZ-85">
           <mxGeometry x="96" y="520" width="120" height="60" as="geometry" />
